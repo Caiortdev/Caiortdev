@@ -55,6 +55,7 @@
 <!-- ===== BARRINHA DE SEPARAÇÃO ===== -->
 
 <!-- ===== PACMAN ===== -->
+<h3 align="center"> 🔍 Activity</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caiortdev/Caiortdev/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Caiortdev/Caiortdev/pacman-output/pacman-contribution-graph.svg">
