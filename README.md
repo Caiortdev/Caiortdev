@@ -4,6 +4,8 @@
 
 </div>
 
+![Banner](./assets/hello-world-banner.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caiortdev/Caiortdev/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Caiortdev/Caiortdev/pacman-output/pacman-contribution-graph.svg">
