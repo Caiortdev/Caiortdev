@@ -4,6 +4,9 @@
 </div>
 <!-- ===== HEADER ===== -->
 
+<div align="left">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 <!-- ===== TYPING EFFECT ===== -->
 <div align="center">
 
