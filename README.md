@@ -54,6 +54,26 @@
 </div>
 <!-- ===== BARRINHA DE SEPARAÇÃO ===== -->
 
+<!-- ===== CONTATOS ===== -->
+div align="left">
+  <a href="https://www.linkedin.com/in/caiort" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/rcaiotorres" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="mailto:caiortorres7@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
+<!-- ===== CONTATOS ===== -->
+
+<!-- ===== BARRINHA DE SEPARAÇÃO ===== -->
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:0d1f2d,100:4dd9ac" />
+</div>
+<!-- ===== BARRINHA DE SEPARAÇÃO ===== -->
+
 <!-- ===== PACMAN ===== -->
 <h3 align="center"> 🔍 Activity</h3>
 <picture>
