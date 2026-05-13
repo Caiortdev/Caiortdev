@@ -5,4 +5,4 @@
 </picture>
 
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Caiortdev&label=Visitors&color=0&icon=0&pretty=true)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Caiortdev&label=Profile%20Views&color=12&icon=5&pretty=true)
