@@ -5,6 +5,7 @@
 <!-- ===== HEADER ===== -->
 
 <!-- ===== TYPING EFFECT ===== -->
+<img src="/Caiortdev.png" height="150" align="right" />
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=3000&pause=500&color=4DD9AC&background=0D1F2D00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Caio!+👋;Welcome+to+my+github!;Passionate+about+code.;Always+learning+new+things.)](https://git.io/typing-svg)
