@@ -5,4 +5,4 @@
 </picture>
 
 
-![](https://komarev.com/ghpvc/?username=Caiortdev&color=green&style=flat-square&label=Visitors)
+![](https://hits.sh/github.com/Caiortdev/Caiortdev.svg?label=Visitors&color=brightgreen)
