@@ -8,11 +8,11 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3000&pause=500&color=4DD9AC&background=0D1F2D00&center=true&vCenter=true&width=500&lines=Hi,+I'm+Caio!+👋;Welcome+to+my+github!;Passionate+about+code.;Always+learning+new+things.)](https://git.io/typing-svg)
-
+<!-- ===== VISITANTES ===== -->
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Caiortdev.Caiortdev&left_color=black&right_color=seagreen"  />
 </div>
-
+<!-- ===== VISITANTES ===== -->
 </div>
 <!-- ===== TYPING EFFECT ===== -->
 
@@ -87,11 +87,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Caiortdev/Caiortdev/pacman-output/pacman-contribution-graph.svg">
 </picture>
 <!-- ===== PACMAN ===== -->
-
-
-<!-- ===== VISITANTES ===== -->
-![](https://hits.sh/github.com/Caiortdev/Caiortdev.svg?label=Visitors&color=brightgreen)
-<!-- ===== VISITANTES ===== -->
 
 <!-- ===== FOOTER ===== -->
 <div>
