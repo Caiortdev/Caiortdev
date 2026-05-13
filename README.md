@@ -17,9 +17,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:0d1f2d,100:4dd9ac" />
 </div>
 <!-- ===== BARRINHA DE SEPARAÇÃO ===== -->
-
 <!-- ===== TECNOLOGIAS ===== -->
 <h3 align="center"> 🛠️| Technologies</h3>
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
