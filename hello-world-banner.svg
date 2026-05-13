@@ -1,0 +1,153 @@
+<svg width="680" height="180" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .scan { animation: scan 3s linear infinite; }
+      @keyframes scan {
+        0%  { transform: translateY(-60px); }
+        100%{ transform: translateY(240px); }
+      }
+      .pulse { animation: pulse 2.5s ease-in-out infinite; }
+      @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.75} }
+
+      /* typewriter phrase 1 */
+      .p1 {
+        animation: show1 12s step-end infinite;
+      }
+      @keyframes show1 {
+        0%   { opacity:1 }
+        33%  { opacity:0 }
+        100% { opacity:0 }
+      }
+      /* typewriter phrase 2 */
+      .p2 {
+        animation: show2 12s step-end infinite;
+      }
+      @keyframes show2 {
+        0%   { opacity:0 }
+        33%  { opacity:1 }
+        66%  { opacity:0 }
+        100% { opacity:0 }
+      }
+      /* typewriter phrase 3 */
+      .p3 {
+        animation: show3 12s step-end infinite;
+      }
+      @keyframes show3 {
+        0%   { opacity:0 }
+        66%  { opacity:1 }
+        99%  { opacity:1 }
+        100% { opacity:0 }
+      }
+
+      /* efeito digitação frase 1 */
+      .t1 {
+        width: 0;
+        white-space: nowrap;
+        overflow: hidden;
+        animation: type1 12s step-end infinite;
+      }
+      @keyframes type1 {
+        0%         { width: 0 }
+        5%         { width: 22ch }
+        28%        { width: 22ch }
+        33%        { width: 0 }
+        100%       { width: 0 }
+      }
+      /* efeito digitação frase 2 */
+      .t2 {
+        width: 0;
+        white-space: nowrap;
+        overflow: hidden;
+        animation: type2 12s step-end infinite;
+      }
+      @keyframes type2 {
+        0%         { width: 0 }
+        33%        { width: 0 }
+        38%        { width: 20ch }
+        61%        { width: 20ch }
+        66%        { width: 0 }
+        100%       { width: 0 }
+      }
+      /* efeito digitação frase 3 */
+      .t3 {
+        width: 0;
+        white-space: nowrap;
+        overflow: hidden;
+        animation: type3 12s step-end infinite;
+      }
+      @keyframes type3 {
+        0%         { width: 0 }
+        66%        { width: 0 }
+        71%        { width: 28ch }
+        94%        { width: 28ch }
+        99%        { width: 0 }
+        100%       { width: 0 }
+      }
+
+      .cursor {
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    </style>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="680" height="180" rx="12" fill="#0d1f2d"/>
+  <rect width="680" height="180" rx="12" fill="none" stroke="#1e3a52" stroke-width="1"/>
+
+  <!-- scanline -->
+  <rect class="scan" x="0" y="0" width="680" height="60" fill="#4dd9ac" opacity="0.07" rx="0"/>
+
+  <!-- grid lines -->
+  <line x1="0" y1="36"  x2="680" y2="36"  stroke="#1e3a52" stroke-width="0.5" opacity="0.4"/>
+  <line x1="0" y1="72"  x2="680" y2="72"  stroke="#1e3a52" stroke-width="0.5" opacity="0.4"/>
+  <line x1="0" y1="108" x2="680" y2="108" stroke="#1e3a52" stroke-width="0.5" opacity="0.4"/>
+  <line x1="0" y1="144" x2="680" y2="144" stroke="#1e3a52" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- hello world -->
+  <text x="340" y="75" font-family="monospace" font-size="38" font-weight="700"
+        fill="#4dd9ac" text-anchor="middle" class="pulse">Hello world!</text>
+
+  <!-- subtítulo fixo -->
+  <text x="340" y="108" font-family="monospace" font-size="13"
+        fill="#4dd9ac" opacity="0.5" text-anchor="middle">~/Caiortdev/profile</text>
+
+  <!-- frases animadas - frase 1 -->
+  <g class="p1">
+    <text x="230" y="132" font-family="monospace" font-size="14" fill="#4dd9ac" opacity="0.85">
+      <tspan>$ </tspan>
+    </text>
+    <svg x="255" y="117" width="220" height="20" overflow="hidden">
+      <text y="15" font-family="monospace" font-size="14" fill="#4dd9ac" opacity="0.85" class="t1">welcome to my github!</text>
+    </svg>
+  </g>
+
+  <!-- frase 2 -->
+  <g class="p2">
+    <text x="230" y="132" font-family="monospace" font-size="14" fill="#4dd9ac" opacity="0.85">
+      <tspan>$ </tspan>
+    </text>
+    <svg x="255" y="117" width="220" height="20" overflow="hidden">
+      <text y="15" font-family="monospace" font-size="14" fill="#4dd9ac" opacity="0.85" class="t2">passionate about code.</text>
+    </svg>
+  </g>
+
+  <!-- frase 3 -->
+  <g class="p3">
+    <text x="230" y="132" font-family="monospace" font-size="14" fill="#4dd9ac" opacity="0.85">
+      <tspan>$ </tspan>
+    </text>
+    <svg x="255" y="117" width="280" height="20" overflow="hidden">
+      <text y="15" font-family="monospace" font-size="14" fill="#4dd9ac" opacity="0.85" class="t3">always learning new things.</text>
+    </svg>
+  </g>
+
+  <!-- cursor piscando -->
+  <rect x="340" y="118" width="9" height="15" rx="2" fill="#4dd9ac" class="cursor" opacity="0.85"/>
+
+  <!-- detalhes de canto -->
+  <rect x="38" y="158" width="8" height="8" rx="2" fill="#4dd9ac" opacity="0.2"/>
+  <rect x="52" y="158" width="8" height="8" rx="2" fill="#4dd9ac" opacity="0.15"/>
+  <rect x="66" y="158" width="8" height="8" rx="2" fill="#4dd9ac" opacity="0.1"/>
+  <text x="642" y="168" font-family="monospace" font-size="11" fill="#4dd9ac" text-anchor="end" opacity="0.35">v1.0.0</text>
+</svg>
