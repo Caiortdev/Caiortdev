@@ -9,8 +9,9 @@
 </div>
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:0d1f2d,100:4dd9ac" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:0d1f2d,100:4dd9ac" />
 </div>
+
 
 
 <picture>
